@@ -13,7 +13,7 @@ If you're reading this, you likely already forked the repo, but make sure to for
 
 1. Fork it if you haven't already
 
-    To do the remove a secret activity, [fork this repo](https://github.com/blgorman/RescueYourGitRepo-RemoveASecret.git):
+    To do the remove a secret activity, [fork this repo](https://github.com/braeden-kelly/cm25-rygruarrrbacp-d):
 
     ```https
     https://github.com/blgorman/RescueYourGitRepo-RemoveASecret.git
